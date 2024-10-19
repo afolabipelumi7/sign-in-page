@@ -1,0 +1,17 @@
+body,html{
+    margin: 0;
+    padding: 0;
+
+    
+   
+}
+
+.bg-pic{
+    background: linear-gradient(135deg, #00c3ff, #ffff1c) ;
+    height:100vh;
+    background-size: cover;
+}
+
+#signintext{
+    font-family: "IBM Plex Sans", sans-serif;
+}
